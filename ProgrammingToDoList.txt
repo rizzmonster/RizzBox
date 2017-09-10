@@ -1,0 +1,57 @@
+Learning Python: To-Do list:
+
+-Hello World (HelloWorld.py)
+
+-Fibbonachi Sequence (fibb.py)
+
+interactive list. (-Use arrays, -display things to screen, -use slice function, simple UI) (listomatic.py)
+
+Upgrade list thing so it outputs to file (listomatic.py)
+
+Upgrade list thing so it reads from file (listomatic.py)
+
+Simple UI Calculator (easycalc.py)
+
+Do something that requires string sanitization and playing with data types (listomatic.py)
+
+Figure out how -break and pass works. read up on exceptions too (listomatic.py, loopy.py, fibb.py)
+
+Make a text comparison application (txtcomp.py)
+
+Make a calendar/clock (goodtimes.py)
+
+if you havent alread: functions, classes, etc. get on it!! (thegame.py)
+
+Should have already been dabbling with tkinter. mess with it some more (thegame.py, txtcomp.py, goodtimes.py)
+
+By now you should be ready for OOP. (thegame.py)
+
+Figure out how multithreading works. maybe it will speed up your game. (thegame.py)
+
+At this point youve done all the offline stuff and maybe some online stuff (derp.py)
+
+Socket programming is now your friend. Remember that spider you made? (missulena.py)
+
+Make the spider and make it better. (missulena.py)
+
+Ok now update the spider so you can customize searches on the fly. (missulena.py)
+
+Now add a set of preset searches that requires minimum input to begin. (missulena.py)
+
+Do the server and client programs for something. maybe a multiplayer dungeon
+or a chat program. something, anything really. just flex your brain. (derp.py)
+
+CGI stuff should be played with now. (cherrymag.py)
+(python, pearl, maybe pascal)
+
+If you skipped xml or C program extentions then you should be polishing that up now. 
+(python, perl, maybe pascal)
+
+
+Ok you did everything. It better be on github....the cool stuff anyway
+the game and spider for sure.
+(thegame.py, derp.py, missulena.py, easycalc.py, fibb.py, listomatic.py, txtcomp.py)
+
+
+At this point if you aren't grinding another language you should at least
+be porting the doomRL engine and the ROT engine to python. That should get kudos.
